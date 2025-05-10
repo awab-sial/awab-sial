@@ -7,7 +7,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=awab-sial&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=awab-sial&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=awab-sial&layout=compact&langs_count=8&hide_border=false&theme=radical&cache_seconds=3600)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=awab-sial&layout=compact&langs_count=8&hide_border=false&theme=radical&cache_seconds=600&random=1)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=awab-sial&theme=radical&no-frame=false&no-bg=false&margin-w=4)
